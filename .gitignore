@@ -4,3 +4,4 @@ src/cython_example/*.html
 src/cython_example/*.c
 venv/
 .idea/
+__pycache__/
